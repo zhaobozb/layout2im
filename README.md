@@ -10,8 +10,8 @@ Online demo can be found [here](https://layout2im.cs.ubc.ca).
 ## Paper
 [Image Generation from Layout](https://arxiv.org/abs/1811.11389)
 <br/>
-[Bo Zhao](https://zhaobo.me)<sup>1</sup>, [Lili Meng](https://www.borealisai.com/en/team/lili-meng/)<sup>1</sup>,[Weidong Yin](http://scholar.google.com/citations?user=kHblmyAAAAAJ&hl=en)<sup>1</sup>, [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/)<sup>1,2</sup><br/>
-<sup>1 </sup> The Univerisity of British Columbia, <sup>2 </sup> Vector Institute <br/>
+[Bo Zhao](https://zhaobo.me), [Lili Meng](https://www.borealisai.com/en/team/lili-meng/),[Weidong Yin](http://scholar.google.com/citations?user=kHblmyAAAAAJ&hl=en), [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/)<br/>
+The Univerisity of British Columbia, Vector Institute <br/>
 IEEE Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)), 2019, (<b>Oral</b>)
 
 ## Network Architechture
